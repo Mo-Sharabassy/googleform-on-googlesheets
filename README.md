@@ -3,10 +3,10 @@
 I wanted to collect internal complaints in the company I work at for a RCA project. However, I encountered a limitation with Google Forms, as it couldn't support three layers of dependent dropdown lists. As a result, I took the initiative to design my own form using Google Sheets and AppScript and here how it goes.
 
 ---
+  
+![image](https://github.com/Mo-Sharabassy/googleform-on-googlesheets/assets/127991953/8dfbfdbb-ede6-469b-9c34-cd787743fea0)
 
-![image](https://github.com/Mo-Sharabassy/googleform-on-googlesheets/assets/127991953/d7a3338c-3921-4f55-b215-04ec31e080c1)
-
-![image](https://github.com/Mo-Sharabassy/googleform-on-googlesheets/assets/127991953/74cdb53f-de13-4faf-8615-3194f84d33db)
+![image](https://github.com/Mo-Sharabassy/googleform-on-googlesheets/assets/127991953/2b6c3309-1fcb-4d95-a1d8-41bb2dac3802)
 
 
 This script is designed to work with Google Sheets and is intended for adding data validation to specific cells in a sheet and for submitting form data. It also includes functions for clearing cells, and sending email notifications.
