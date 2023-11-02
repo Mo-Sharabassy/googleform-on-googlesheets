@@ -8,8 +8,7 @@ I wanted to collect internal complaints in the company I work at for a RCA proje
 
 ![image](https://github.com/Mo-Sharabassy/googleform-on-googlesheets/assets/127991953/2b6c3309-1fcb-4d95-a1d8-41bb2dac3802)
 
-
-This script is designed to work with Google Sheets and is intended for adding data validation to specific cells in a sheet and for submitting form data. It also includes functions for clearing cells, and sending email notifications.
+---
 
 ## Overview
 
